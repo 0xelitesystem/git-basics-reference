@@ -8,16 +8,20 @@ Git tracks your project as a series of snapshots called commits, and your work m
 
 ## What is inside
 
-- `01-the-three-areas.md` working directory, staging area, and commits.
-- `02-core-commands.md` the everyday commands and what each one does.
-- `03-branches-and-merging.md` branches as pointers and how merges combine them.
-- `04-rebase-vs-merge.md` two ways to integrate work and when to use each.
-- `05-undoing-changes.md` checkout, restore, reset, and revert without losing work.
-- `06-gitignore.md` keeping files out of version control.
+- [01-the-three-areas.md](01-the-three-areas.md) working directory, staging area, and commits.
+- [02-core-commands.md](02-core-commands.md) the everyday commands and what each one does.
+- [03-branches-and-merging.md](03-branches-and-merging.md) branches as pointers and how merges combine them.
+- [04-rebase-vs-merge.md](04-rebase-vs-merge.md) two ways to integrate work and when to use each.
+- [05-undoing-changes.md](05-undoing-changes.md) checkout, restore, reset, and revert without losing work.
+- [06-gitignore.md](06-gitignore.md) keeping files out of version control.
 
 ## The stance
 
 This reference treats Git as a snapshot system with a few clear rules, not a pile of magic incantations. Once you understand the three areas and that branches are pointers, most commands stop being mysterious. The goal is a model you can reason from, so unfamiliar situations become solvable rather than scary.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
